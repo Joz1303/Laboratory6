@@ -1,0 +1,15 @@
+.vs/
+x64/
+x86/
+Debug/
+Release/
+GeneratedFiles/
+*.user
+*.suo
+*.aps
+*.pdb
+*.obj
+*.ilk
+*.exe
+*.log
+*.tlog
